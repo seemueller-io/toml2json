@@ -1,0 +1,11 @@
+{
+  "name": "toml2json",
+  "author": "Geoff Seemueller",
+  "scripts": {
+    "postinstall": "cargo install --locked cargo-leptos",
+    "clean": "rm -rf target build .wrangler dist",
+    "build": "npx wrangler build",
+    "dev": "npx wrangler dev",
+    "deploy": "npx wrangler deploy"
+  }
+}
