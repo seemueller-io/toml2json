@@ -8,7 +8,7 @@ This project provides a web-based TOML to JSON converter. Conversion is handled 
 
 ## Quickstart
 ```bash
-git clone  https://github.com/seemueller-io/toml2json.git
+git clone https://github.com/seemueller-io/toml2json.git
 cd toml2json
 # Install dependencies
 npm install
