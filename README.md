@@ -1,6 +1,10 @@
-# TOML to JSON Converter
+# toml2json
 
 This project provides a web-based TOML to JSON converter. Conversion is handled client-side.
+
+## Prerequisites
+- [node/npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- [rust/cargo](https://www.rust-lang.org/tools/install)
 
 ## Quickstart
 ```bash
